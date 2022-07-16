@@ -16,8 +16,7 @@ function solveEquation(a, b, c) {
           else if (d < 0) {
               arr = []
           }
-    }
-  return arr; // array
+    return arr; // array
 }
 
 function calculateTotalMortgage(percent, contribution, amount, date) {
